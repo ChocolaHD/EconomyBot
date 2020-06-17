@@ -13,7 +13,7 @@ bot.registry.registerGroup('time', 'Time');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands");
 
-bot.login('Removed');
+bot.login('NzIyOTA0OTAwODk1MjQ0Mjkw.XuqIEQ.0NmKBoc6zbzy35630yWrdTpPwE4');
 
 var con = mysql.createConnection({
   host: "localhost",
